@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**szymonf6/szymonf6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello there! 👋
 
-Here are some ideas to get you started:
+I'm Szymon, passionate about artificial intelligence, machine learning, and computer vision. By education, I'm an electronics engineer, but my true passion lies in exploring the realms of AI and ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently, I'm diving deep into various aspects of AI, ML, and computer vision.
+
+💼 I'm also interested in embedded systems, where I can blend my electronics knowledge with programming.
+
+🧠 I'm primarily self-taught, learning from various resources and experimenting with different technologies.
+
+🔧 Languages and tools I'm proficient in:
+- C++
+- Python
+- OpenCV
+- PyTorch
+- Electronics (🛠️)
+
+### GitHub Stats:
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
