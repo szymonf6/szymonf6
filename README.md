@@ -11,10 +11,10 @@ I'm Szymon, passionate about artificial intelligence, machine learning, and comp
 🧠 I'm primarily self-taught, learning from various resources and experimenting with different technologies.
 
 🔧 Languages and tools I'm proficient in:
-- C++
-- Python
-- OpenCV
-- PyTorch
+- C++ (💻)
+- Python (🐍)
+- OpenCV (👁️)
+- PyTorch (🔥)
 - Electronics (🛠️)
 
 ### GitHub Stats:
