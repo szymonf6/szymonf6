@@ -1,22 +1,25 @@
-### Hi there 👋
-
 ### Hello there! 👋
 
-I'm Szymon, passionate about artificial intelligence, machine learning, and computer vision. By education, I'm an electronics engineer, but my true passion lies in exploring the realms of AI and ML.
+I'm Szymon, passionate about automation, electronics, and machine learning. By education, I'm an electronics engineer, but my passion lies in multiple areas.
 
-🌱 Currently, I'm diving deep into various aspects of AI, ML, and computer vision.
+🌱 Currently, I'm diving deep into various aspects of DevOps and process automation, focusing on creating scalable, reliable systems.
 
-💼 I'm also interested in embedded systems, where I can blend my electronics knowledge with programming.
+💼 I'm also interested in embedded systems, where I blend my electronics knowledge with programming to work on low-level, high-performance projects.
 
-🧠 I'm primarily self-taught, learning from various resources and experimenting with different technologies.
+🧠 I'm primarily self-taught, constantly learning from various resources, exploring new frameworks, and experimenting with different technologies to solve real-world problems.
 
 🔧 Languages and tools I'm proficient in:
-- C++ (💻)
-- Python (🐍)
-- OpenCV (👁️)
-- PyTorch (🔥)
-- Electronics (🛠️)
 
-### GitHub Stats:
+Programming: C/C++ 💻, Python 🐍, SQL 🛢️, Bash/Linux 🐧
+DevOps: Docker, Jenkins, Kubernetes, AWS 🚀, GitHub Actions ⚙️
+Electronics: ESP32, Arduino, PCB design 🛠️
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername)](https://github.com/anuraghazra/github-readme-stats)
+📂 Projects and interests: In my repositories, you'll find projects spanning:
+- Embedded Systems: Projects involving microcontrollers and IoT, blending hardware with software.
+- AI/ML: Practical machine learning applications, from data preprocessing to neural networks.
+- DevOps: Automations, CI/CD pipelines, containerization, and cloud infrastructure.
+
+📈 Current Focus:
+- Optimizing DevOps workflows for CI/CD efficiency.
+- Deepening my understanding of cloud architecture with AWS.
+- Experimenting with machine learning in embedded environments.
