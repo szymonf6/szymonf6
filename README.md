@@ -9,10 +9,9 @@ I'm Szymon, passionate about automation, electronics, and machine learning. By e
 🧠 I'm primarily self-taught, constantly learning from various resources, exploring new frameworks, and experimenting with different technologies to solve real-world problems.
 
 🔧 Languages and tools I'm proficient in:
-
-Programming: C/C++ 💻, Python 🐍, SQL 🛢️, Bash/Linux 🐧
-DevOps: Docker, Jenkins, Kubernetes, AWS 🚀, GitHub Actions ⚙️
-Electronics: ESP32, Arduino, PCB design 🛠️
+- Programming: C/C++ 💻, Python 🐍, SQL 🛢️, Bash/Linux 🐧
+- DevOps: Docker, Jenkins, Kubernetes, AWS 🚀, GitHub Actions ⚙️
+- Electronics: ESP32, Arduino, PCB design 🛠️
 
 📂 Projects and interests: In my repositories, you'll find projects spanning:
 - Embedded Systems: Projects involving microcontrollers and IoT, blending hardware with software.
